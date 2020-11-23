@@ -1,0 +1,29 @@
+h1 {
+	color: blue;
+}
+
+a[href^='https'] {
+	color: red;
+}
+
+#link  {
+	background-color: green;
+}
+ul + p {
+	font-size: 26px ;
+} 
+h3:first-child{
+	color: pink;
+}
+#greycol{
+	color: grey;
+}
+div p:first-child{
+	color: red;
+}
+div ~ p{
+	color: green;
+}
+.yellow {
+	color: yellow;
+}
